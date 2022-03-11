@@ -1,0 +1,11 @@
+{
+  "name": "@nx-core/lib",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "tslib": "2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
